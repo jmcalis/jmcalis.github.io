@@ -8,4 +8,3 @@ venue: 'Journal of Theoretical Biology'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0022519322000285'
 citation: ' John McAlister,  Ian Hamilton, &quot;An adaptive dynamic model of a vigilance game among group foragers.&quot; Journal of Theoretical Biology, 2022.'
 ---
-[Access paper here](https://www.sciencedirect.com/science/article/pii/S0022519322000285){:target="_blank"}
