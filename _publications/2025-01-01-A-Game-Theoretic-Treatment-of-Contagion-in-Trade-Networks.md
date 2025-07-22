@@ -1,6 +1,7 @@
 ---
 title: "A Game Theoretic Treatment of Contagion in Trade Networks"
 collection: publications
+catagory: preprints
 permalink: /publication/2025-01-01-A-Game-Theoretic-Treatment-of-Contagion-in-Trade-Networks
 excerpt: 'Under Review at PLOS Computational Biology'
 date: 2025-01-01

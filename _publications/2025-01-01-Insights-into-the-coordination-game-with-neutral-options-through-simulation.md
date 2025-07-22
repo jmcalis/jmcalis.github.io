@@ -1,6 +1,7 @@
 ---
 title: "Insights into the coordination game with neutral options through simulation"
 collection: publications
+catagory: manuscripts
 permalink: /publication/2025-01-01-Insights-into-the-coordination-game-with-neutral-options-through-simulation
 date: 2025-01-01
 venue: 'Dynamic Games and Applications'

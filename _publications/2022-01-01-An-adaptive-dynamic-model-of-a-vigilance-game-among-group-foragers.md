@@ -1,6 +1,7 @@
 ---
 title: "An adaptive dynamic model of a vigilance game among group foragers"
 collection: publications
+catagory: manuscripts
 permalink: /publication/2022-01-01-An-adaptive-dynamic-model-of-a-vigilance-game-among-group-foragers
 date: 2022-01-01
 venue: 'Journal of Theoretical Biology'

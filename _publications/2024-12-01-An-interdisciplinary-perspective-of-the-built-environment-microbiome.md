@@ -1,6 +1,7 @@
 ---
 title: "An interdisciplinary perspective of the built-environment microbiome"
 collection: publications
+catagory: manuscripts
 permalink: /publication/2024-12-01-An-interdisciplinary-perspective-of-the-built-environment-microbiome
 date: 2024-12-01
 excerpt: 'This paper discusses the challenges of studying the built environment microbiome because of the inherent interdisciplinary nature of the field'

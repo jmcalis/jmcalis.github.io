@@ -1,6 +1,7 @@
 ---
 title: "Edge addition and the change in Kemeny’s constant"
 collection: publications
+catagory: manuscripts
 permalink: /publication/2025-01-01-Edge-addition-and-the-change-in-Kemenys-constant
 date: 2025-01-01
 venue: 'Discrete Applied Mathematics'

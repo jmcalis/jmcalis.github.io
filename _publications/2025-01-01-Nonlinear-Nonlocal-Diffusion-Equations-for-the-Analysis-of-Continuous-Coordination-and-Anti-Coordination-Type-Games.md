@@ -1,6 +1,7 @@
 ---
 title: "Nonlinear Nonlocal Diffusion Equations for the Analysis of Continuous Coordination and Anti-Coordination Type Games"
 collection: publications
+catagory: preprints
 permalink: /publication/2025-01-01-Nonlinear-Nonlocal-Diffusion-Equations-for-the-Analysis-of-Continuous-Coordination-and-Anti-Coordination-Type-Games
 excerpt: 'Under Review at Physical Reviews E'
 date: 2025-01-01

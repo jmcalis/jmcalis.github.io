@@ -1,6 +1,7 @@
 ---
 title: "A New Paradigm for Pandemic Preparedness"
 collection: publications
+catagory: manuscripts
 permalink: /publication/2023-01-01-A-New-Paradigm-for-Pandemic-Preparedness
 date: 2023-01-01
 venue: 'Current Epidemiologiy Reports'
