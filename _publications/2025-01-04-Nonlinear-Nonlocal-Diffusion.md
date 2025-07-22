@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/2025-A-Nonlinear-Nonlocal
 excerpt: "I introduce a continuous model of a modified coordination game and examine the dynamic and equilibrium properties of the resulting nonlinear nonlocal diffusion equation"
-date: '2025'
+date: '2025-01-04'
 venue: 'preprint'
 paperurl: 'http://academicpages.github.io/files/McAlister2025d.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
