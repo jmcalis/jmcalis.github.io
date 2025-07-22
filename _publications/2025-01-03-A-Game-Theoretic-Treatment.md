@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/2025-A-Game-Theoretic
 excerpt: "In this paper we examine a game theoretic model of the wildlife trade network and investigate how network structure impacts spillover risk of disease"
-date: '2025'
+date: '2025-01-03'
 venue: 'preprint'
 paperurl: 'http://academicpages.github.io/files/McAlister2025c.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'

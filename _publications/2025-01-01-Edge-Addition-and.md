@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-Edge-Addition-and
 excerpt: "This paper finds upper and lower bounds for the change in Kemeny's constant under edge addition from a tree"
-date: '2025'
+date: '2025-01-01'
 venue: 'Discrete Applied Mathematics'
 paperurl: 'http://academicpages.github.io/files/Kirkland2025.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
