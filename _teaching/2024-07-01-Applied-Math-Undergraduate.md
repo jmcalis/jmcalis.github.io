@@ -1,8 +1,8 @@
 ---
-title: "Applied Math Undergraduate Research Mentor"
+title: "Applied Math Undergraduate Research"
 collection: teaching
 type: "Mentorship"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024-07-01-Appled-Math
 venue: "University of Tennessee - Knoxville, Department of Mathematics"
 date: 2024-07-01
 location: "Knoxville, Tennessee"
