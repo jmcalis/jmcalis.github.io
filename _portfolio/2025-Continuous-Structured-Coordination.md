@@ -11,7 +11,7 @@ collection: portfolio
 
 <i>When the radius of recognition in the strategy space is limited, players form discrete bands of strategies at equilibrium.</i> 
 
-Code for the numerical approximation of solutions to the continuous coordination non-local equation as described in [this manuscript](jmcalis.github.io/files/McAlister2025d)
+Code for the numerical approximation of solutions to the continuous coordination non-local equation as described in [this manuscript](http://jmcalis.github.io/files/McAlister2025d.pdf)
 
 There is one function and two matlab scripts in this repository.
 
