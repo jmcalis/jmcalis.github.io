@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I am John McAlister, A PhD Candidate at the university of Tennessee - Knoxville. I am a member of the [Fefferman lab](https://feffermanlab.org) under the direction of my co-advisor Dr. Nina H. Fefferman I am also co-advised by Dr. Tadele Mengesha. Before I came to the University of Tennessee, I did my undergraduate work at The Ohio State University (go bucks) where I earned a B.S. in mathematics and a B.S. Zoology. 
+I am John McAlister, A PhD Candidate studying applied math at the university of Tennessee - Knoxville. I am a member of the [Fefferman lab](https://feffermanlab.org) under the direction of my co-advisor [Dr. Nina H. Fefferman](https://scholar.google.com/citations?user=su7CB3AAAAAJ&hl=en). I am also co-advised by [Dr. Tadele Mengesha](https://scholar.google.com/citations?hl=en&user=TbdmtEgAAAAJ&view_op=list_works). Before I came to the University of Tennessee, I did my undergraduate work at The Ohio State University (go bucks) where I earned a B.S. in mathematics and a B.S. Zoology. 
 
 When I started my academic journey I thought that I wanted to be an ecologist or a zoologist because I loved learned about the ways they interacted. As I learned more, I realized the animal systems themselves were not the interesting part, rather the mathematical descriptions of the interactions. Naturally, this led to me studying Mathematical biology and, in particular, game theoretic modeling.
 
