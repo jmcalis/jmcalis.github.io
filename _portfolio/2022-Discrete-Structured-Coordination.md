@@ -1,14 +1,15 @@
 ---
 title: "Discrete Stuctured Coordination"
-excerpt: "a collection of tools for the analysis of an n-player, n-strategy coordination game on a network with neutral options. Considering the game as a dynamical system we describe orbits, equilibria, and stability.<br/><img src='/images/DiscreteStructuredImage.png'>"
+excerpt: "A collection of tools for the analysis of an $n$-player, $n$-strategy coordination game on a network with neutral options. Considering the game as a dynamical system we describe orbits, equilibria, and stability.<br/><img src='/images/DiscreteStructuredImage.png'>"
 collection: portfolio
 ---
 
-# Scructured Coordination
+[Link to the repository ](https://github.com/feffermanlab/JSM_2024_StructuredCoordination)
 
-[A link to a list of tools to for the analysis of the structured coordination game is discrete settings](https://github.com/feffermanlab/JSM_2024_StructuredCoordination)
+<img src='/images/DiscreteStructuredImage.png'>
+A non-consensus equilibrium in a coordination game on an asymmetric network.
 
-This repository contains a collection of tools for the analysis of an n-player, n-strategy coordination game on a network with neutral options. 
+This repository contains a collection of tools for the analysis of an $n$-player, $n$-strategy coordination game on a network with neutral options. 
 Considering the game as a dynamical system we describe orbits, equilibria, and stability.  
 
 The Class Orbit is a (non-unique) solution to the initial value problem. Given a initial strategy profile (which will
