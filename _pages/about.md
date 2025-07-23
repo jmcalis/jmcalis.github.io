@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include TOC %}
+
 ## About me
 I am John McAlister, A PhD Candidate studying applied math at the university of Tennessee - Knoxville. I am a member of the [Fefferman lab](https://feffermanlab.org) under the direction of my co-advisor [Dr. Nina H. Fefferman](https://scholar.google.com/citations?user=su7CB3AAAAAJ&hl=en). I am also co-advised by [Dr. Tadele Mengesha](https://scholar.google.com/citations?hl=en&user=TbdmtEgAAAAJ&view_op=list_works). Before I came to the University of Tennessee, I did my undergraduate work at The Ohio State University (go bucks) where I earned a B.S. in mathematics and a B.S. Zoology. 
 
