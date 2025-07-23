@@ -7,7 +7,8 @@ collection: portfolio
 [Link to the repository ](https://github.com/feffermanlab/JSM_2024_StructuredCoordination)
 
 <img src='/images/DiscreteStructuredImage.png'>
-A non-consensus equilibrium in a coordination game on an asymmetric network.
+
+<i>A non-consensus equilibrium in a coordination game on an asymmetric network.</i>
 
 This repository contains a collection of tools for the analysis of an $n$-player, $n$-strategy coordination game on a network with neutral options. 
 Considering the game as a dynamical system we describe orbits, equilibria, and stability.  
