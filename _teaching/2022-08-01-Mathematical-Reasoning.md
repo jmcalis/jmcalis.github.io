@@ -12,4 +12,4 @@ Mathematical Reasoning is a course geared towards undergraduate students who are
 
 Class Materials 
 ======
-In the fall semesters of 2022 and 2023 as well as the spring semester of 2023, I taught from lecutre notes which can be found [here](http://jmcalis.github.io/files/LectureNotes113). These are lecture notes that I wrote myself which touch on several kinds of matheamtics including Probability, Number Theory, Graph Theory, Geometry, and more. 
+In the fall semesters of 2022 and 2023 as well as the spring semester of 2023, I taught from lecutre notes which can be found [here](http://jmcalis.github.io/files/LectureNotes113.pdf). These are lecture notes that I wrote myself which touch on several kinds of matheamtics including Probability, Number Theory, Graph Theory, Geometry, and more. 

@@ -1,5 +1,5 @@
 ---
-title: "WildlifeTradeNetworks"
+title: "Wildlife Trade Networks"
 excerpt: "Collection of code to model the bidirectional coupling of pathogenic dynamics and economic factors in wildlife trade networks.<br/><img src='/images/WildlifeTradeImage.png'>"
 collection: portfolio
 ---
@@ -10,7 +10,7 @@ collection: portfolio
 
 <i>As payoff function is modified at the bottom of the trade network, the effects propogate up the network from consumers to producers.</i> 
 
-Collection of code to model the bidirectional coupling of pathogenic dynamics and economic factors in wildlife trade networks. This bidirectional coupling and the associated model results are written about in [this manuscript](http://jmcalis.github.io/files/mcalister2025c.pdf). The goal of the project is to capture the economic behavior of a trade network, the contagion dynamics on a network with acyclic flow, and the risk of spillover all in a single model. We are especially interested in the way that each of these three factors interacts with the others. The hope is that this model will make it so that the network structure can be given as an independent variable and the spillover risk, total trade volume etc. can be measured as a dependent varaible.
+Collection of code to model the bidirectional coupling of pathogenic dynamics and economic factors in wildlife trade networks. This bidirectional coupling and the associated model results are written about in [this manuscript](http://jmcalis.github.io/files/McAlister2025c.pdf). The goal of the project is to capture the economic behavior of a trade network, the contagion dynamics on a network with acyclic flow, and the risk of spillover all in a single model. We are especially interested in the way that each of these three factors interacts with the others. The hope is that this model will make it so that the network structure can be given as an independent variable and the spillover risk, total trade volume etc. can be measured as a dependent varaible.
 
 FixedPointArgument.m is a script which was helpful in proving the result which ultimately became Theorem 1 in the manuscript. The code is left here for instructive purposes
 
