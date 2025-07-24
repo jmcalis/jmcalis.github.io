@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ## About me
-I am John McAlister, A PhD Candidate studying applied math at the university of Tennessee - Knoxville. I am a member of the [Fefferman lab](https://feffermanlab.org) under the direction of my co-advisor [Dr. Nina H. Fefferman](https://scholar.google.com/citations?user=su7CB3AAAAAJ&hl=en). I am also co-advised by [Dr. Tadele Mengesha](https://scholar.google.com/citations?hl=en&user=TbdmtEgAAAAJ&view_op=list_works). Before I came to the University of Tennessee, I did my undergraduate work at The Ohio State University (go bucks) where I earned a B.S. in mathematics and a B.S. Zoology. 
+I am John McAlister, a PhD candidate studying applied math at the university of Tennessee - Knoxville. I am a member of the [Fefferman lab](https://feffermanlab.org) under the direction of my co-advisor [Dr. Nina H. Fefferman](https://scholar.google.com/citations?user=su7CB3AAAAAJ&hl=en). I am also co-advised by [Dr. Tadele Mengesha](https://scholar.google.com/citations?hl=en&user=TbdmtEgAAAAJ&view_op=list_works). Before I came to the University of Tennessee, I did my undergraduate work at The Ohio State University (go Bucks) where I earned a B.S. in mathematics and a B.S. in zoology. 
 
-When I started my academic journey I thought that I wanted to be an ecologist or a zoologist because I loved learned about the ways they interacted. As I learned more, I realized the animal systems themselves were not the interesting part, rather the mathematical descriptions of the interactions. Naturally, this led to me studying Mathematical biology and, in particular, game theoretic modeling.
+When I started my academic journey I thought that I wanted to be an ecologist or a zoologist because I loved learned about the ways they interacted. As I learned more, I realized the animal systems themselves were not the interesting part to me, rather the mathematical descriptions of the interactions. Naturally, this led to me studying Mathematical biology and, in particular, game theoretic modeling.
 
 ## My research
 Currently I study game theoretic modeling with explicit spatial or relational strucutre. I like thinking about these kinds of questions in all sorts of application areas, from ecology to economics. The use of dynamic game theory has been hugely important to modelers in behavioral ecology and economics for many years. The part that I am interested in is the way that explicit relational strucutre impacts the dynamics of dynamic games. 
@@ -24,7 +24,7 @@ Throughout all of this, I make an effort to include numerical methods, to make s
 In addition to my work on dynamic games, I have also been a part of research in pandemic ecology, graph theory, behavioral ecology, and more. You can find a full list of these projects linked [here](https://scholar.google.com/citations?user=QhxXZvAAAAAJ&hl=en).
 
 ## My teaching and mentorship
-Although I am not teaching currently, I have had the opportunity to teach both during my time as an undergraduate and as a graduate student. At the Universtiy of Tennessee I have had the privilage of teaching Math 119, Math 125, and Math 113. 
+Although I am not teaching currently, I have had the opportunity to teach both during my time as an undergraduate and as a graduate student. At the Universtiy of Tennessee, I have had the privilage of teaching Math 119, Math 125, and Math 113. 
 
 Outside of those courses, I have also had the opportunity to mentor undergradaute research and am currently leading an undergraduate reasearch project with a very talented student studying hybrid modeling and the theory of planned behavior. 
 

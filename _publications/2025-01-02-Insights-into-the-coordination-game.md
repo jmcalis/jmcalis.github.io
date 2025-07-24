@@ -3,7 +3,7 @@ title: "Insights into the coordination game with neutral options through simulat
 collection: publications
 category: manuscripts
 permalink: /publication/2025-Insights-Into-The
-excerpt: 'A simulation study of the neutral coordination of a random graphs to gain an insight into the relationship between structure and equilibrium'
+excerpt: 'A simulation study of the neutral coordination of a random graphs to gain an insight into the relationship between structure and equilibrium.'
 date: '2025-01-02'
 venue: 'Dynamic Games and Applications'
 paperurl: 'http://jmcalis.github.io/files/McAlister2025b.pdf'

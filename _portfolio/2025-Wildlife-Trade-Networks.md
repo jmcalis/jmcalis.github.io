@@ -1,5 +1,5 @@
 ---
-title: "Wildlife Trade Networks"
+title: "Wildlife trade networks"
 excerpt: "Collection of code to model the bidirectional coupling of pathogenic dynamics and economic factors in wildlife trade networks.<br/><img src='/images/WildlifeTradeImage.png'>"
 collection: portfolio
 ---

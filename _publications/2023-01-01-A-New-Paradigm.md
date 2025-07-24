@@ -3,7 +3,7 @@ title: "A new paradigm for pandemic preparedness"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-A-New-Paradigm
-excerpt: 'This paper discusses the issues with the current state of pandemic science and a vision for the future'
+excerpt: 'This paper discusses the issues with the current state of pandemic science and a vision for the future.'
 date: '2023-01-01'
 venue: 'Current Epidemiology Reports'
 paperurl: 'http://jmcalis.github.io/files/Fefferman2023.pdf'

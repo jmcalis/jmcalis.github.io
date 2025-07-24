@@ -54,9 +54,9 @@ Work experience
   * The Ohio State University
   * Advisor: Dr. Ian Hamilton
 
-* 2019: Undergraduate Research Fellow - Ecological Modeling of the Mississippiu River Basin
+* 2019: Undergraduate Research Fellow - Ecological Modeling of the Mississippi River Basin
   * University of Wisconsin - La Crosse
-  * Advisors: Dr. Robert Allen, Dr. ANita Davelos, Dr. James Pierce, Dr. Greg Sandland
+  * Advisors: Dr. Robert Allen, Dr. Anita Davelos, Dr. James Pierce, Dr. Greg Sandland
   
 Software experience
 ======

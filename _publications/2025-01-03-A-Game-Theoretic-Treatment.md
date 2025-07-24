@@ -3,7 +3,7 @@ title: "A game theoretic treatment of contagion in trade networks"
 collection: publications
 category: preprints
 permalink: /publication/2025-A-Game-Theoretic
-excerpt: "In this paper we examine a game theoretic model of the wildlife trade network and investigate how network structure impacts spillover risk of disease"
+excerpt: "In this paper we examine a game theoretic model of the wildlife trade network and investigate how network structure impacts spillover risk of disease."
 date: '2025-01-03'
 venue: 'Under Review at PLOS Computational Biology'
 paperurl: 'http://jmcalis.github.io/files/McAlister2025c.pdf'

@@ -1,5 +1,5 @@
 ---
-title: "Discrete Stuctured Coordination"
+title: "Discrete stuctured coordination"
 excerpt: "A collection of tools for the analysis of an n-player, n-strategy coordination game on a network with neutral options. Considering the game as a dynamical system we describe orbits, equilibria, and stability.<br/><img src='/images/DiscreteStructuredImage.png'>"
 collection: portfolio
 ---

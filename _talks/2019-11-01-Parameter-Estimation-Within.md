@@ -1,5 +1,5 @@
 ---
-title: "Parameter estimation within an SIR model of Americal Chestnut Blight"
+title: "Parameter estimation within an SIR model of americal chestnut blight"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-11-01-parameter-estimation-within

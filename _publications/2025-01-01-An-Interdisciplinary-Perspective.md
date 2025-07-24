@@ -3,7 +3,7 @@ title: "An interdisciplinary perspective of the built-environment microbiome"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-An-Interdisciplinary-perspecitve
-excerpt: 'This paper discusses the challenges of studying the built environment microbiome because of the inherent interdisciplinary nature of the field'
+excerpt: 'This paper discusses the challenges of studying the built environment microbiome because of the inherent interdisciplinary nature of the field.'
 date: '2025-01-01'
 venue: 'FEMS Microbiology Ecology'
 paperurl: 'http://jmcalis.github.io/files/McAlister2025a.pdf'
