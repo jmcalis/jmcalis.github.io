@@ -64,7 +64,7 @@ Software experience
   * R
   * Python
   * MATLAB
-  * $\LaTeX$
+  * \\(\LaTeX\\)
   * Mathematica 
 * Experienced
   * C#
