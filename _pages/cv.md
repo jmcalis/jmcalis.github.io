@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a more complete version of my CV [here](httphttp://jmcalis.github.io/files/McAlisterCV.pdf). The overview is presented below.
+You can download a more complete version of my CV [here](http://jmcalis.github.io/files/McAlisterCV.pdf). The overview is presented below.
 
 
 
