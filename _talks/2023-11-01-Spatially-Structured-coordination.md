@@ -8,4 +8,4 @@ date: 2023-11-01
 location: "Knoxville, TN, USA"
 ---
 
-[Slides](http://jmcalis.github.io.files/McAlisterOralExam.pdf)
+[Slides](http://jmcalis.github.io/files/McAlisterOralExam.pdf)

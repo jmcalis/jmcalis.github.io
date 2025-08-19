@@ -8,4 +8,4 @@ date: 2025-08-19
 location: "Knoxville, TN"
 ---
 
-[Slides](http://jmcalis.github.io.files/McAlisterAPPEXPresentation.pdf)
+[Slides](http://jmcalis.github.io/files/McAlisterAPPEXpresentation.pdf)

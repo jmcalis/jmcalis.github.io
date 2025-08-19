@@ -8,4 +8,4 @@ date: 2024-09-01
 location: "Exeter, UK"
 ---
 
-[Slides](http://jmcalis.github.io.files/McAlisterCCSPresentation.pdf)
+[Slides](http://jmcalis.github.io/files/McAlisterCCSPresentation.pdf)
