@@ -1,6 +1,6 @@
 ---
 title: "Structured Replicator Dynamics"
-excerpt: "Code for the analysis and visualization of replicator dynamics with explicit relational structure in continuous time for both continuous and discrete player spaces.<br/><img src='/images/structuredReplicatorImage.png'>"
+excerpt: "Code for the analysis and visualization of replicator dynamics with explicit relational structure in continuous time for both continuous and discrete player spaces.<br/><img src='/images/StructuredReplicatorImage.png'>"
 collection: portfolio
 ---
 
