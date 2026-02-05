@@ -1,5 +1,5 @@
 ---
-title: "Classification of dynamicss for a two person model of planned behavior"
+title: "Classification of dynamics for a two person model of planned behavior"
 collection: publications
 category: preprints
 permalink: /publication/2026-Classification-Planned-Behavior
