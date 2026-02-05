@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-A-Game-Theoretic
 excerpt: "In this paper we examine a game theoretic model of the wildlife trade network and investigate how network structure impacts spillover risk of disease."
 date: '2025-12-26'
-venue: 'Under Review at PLOS Computational Biology'
+venue: 'PLOS Computational Biology'
 paperurl: 'http://jmcalis.github.io/files/McAlister2025c.pdf'
 bibtexurl: ' https://doi.org/10.1371/journal.pcbi.1013845'
 citation: "McAlister J. S., Brunner, J.L., Galvin, D. J., Fefferman, N.H. (2025) A Game Theoretic Treatment of Contagion in Trade Networks.PLOS computational Biology. https://doi.org/10.1371/journal.pcbi.1013845"
