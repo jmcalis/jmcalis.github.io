@@ -79,14 +79,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  dissertation:
-    title: 'Dissertation'
   books:
     title: 'Books'
   preprints:
     title: 'Preprints' 
   manuscripts:
-    title: 'Journal Articles'   
+    title: 'Journal Articles'
+  dissertation:
+    title: 'Dissertation'   
   conferences:
     title: 'Conference Papers'
   
