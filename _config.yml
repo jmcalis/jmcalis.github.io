@@ -25,16 +25,16 @@ author:
   avatar           : "McAlisterHeadshot.jpg"
   name             : "John McAlister"
   pronouns         : "he/him"  
-  bio              : "Math PhD Student at the Universtiy of Tennessee - Knoxville"
-  location         : "Knoxville, Tennessee"
-  employer         : "University of Tennessee - Knoxville"
+  bio              : "Postdoctoral Research Associate"
+  location         : "Princeton, New Jersey"
+  employer         : "Princeton University"
   uri              : # URL
-  email            : "jmcalis6@vols.utk.edu" 
+  email            : "jm9097@princeton.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : "https://arxiv.org/search/math?searchtype=author&query=McAlister,+J+S"
-  googlescholar    : "https://scholar.google.com/citations?user=QhxXZvAAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=Kn5-SKEAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0003-3264-5375"
   semantic         : # URL
