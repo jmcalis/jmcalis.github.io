@@ -21,7 +21,7 @@ In continuous domains, this looks rather different. Instead of thinking about pl
 
 Throughout all of this, I try to include numerical methods, to make sure that the analytical results can be observed and understood in application areas and in systems where analytical solutions are impossible. To that end, I often use python and MATLAB to write simulations and code numerical methods to analyze the models I work on.
 
-In addition to my work on dynamic games, I have also been a part of research in pandemic ecology, graph theory, behavioral ecology, and more. You can find a full list of these projects linked [here](https://scholar.google.com/citations?user=QhxXZvAAAAAJ&hl=en).
+In addition to my work on dynamic games, I have also been a part of research in pandemic ecology, graph theory, behavioral ecology, and more. You can find a full list of these projects linked [here](https://scholar.google.com/citations?user=Kn5-SKEAAAAJ&hl=en).
 
 ## My teaching and mentorship
 I have had the opportunity to teach both during my time as an undergraduate and as a graduate student. At the University of Tennessee, I have had the privilege of teaching Math 119, Math 125, and Math 113. 
