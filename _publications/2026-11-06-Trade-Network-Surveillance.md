@@ -1,0 +1,13 @@
+---
+title: "Trade network surveillance strategies"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-Trade-Network-Surveillance
+excerpt: " We seek to provide an early-warning surveillance system to aid in searching the pet trade network for infectious animals"
+date: '2026-11-6'
+venue: 'Ecosphere'
+paperurl: 'http://jmcalis.github.io/files/Wright2026.pdf'
+bibtexurl: 'https://doi.org/10.1002/ecs2.70787'
+citation: "Wright J., McAlister J.S., Almeida R., Bletz M., Gray M.J., Lockwood J.L., Masecar S., Piovia-Scott J., Warwick A., Fefferman N.H. (2026) Trade network surveillance strategies. Ecosphere. https://doi.org/10.1002/ecs2.70787"
+---
+The global success of the wildlife trade industry has led to the emergence of novel pathogens over the past two decades. The introduction of Batrachochytrium dendrobatidis to naive amphibian species has been a cause of global population decline and species extinction. A second chytridiomiycosis causing fungus, Batrachochytrium salamandrivorans (Bsal), has been identified in the Netherlands, and there is a risk of it being introduced to new regions via the wildlife pet trade. Current regulations governing wild animal trade make it difficult to identify carriers before they enter the trade network, so we seek to provide an early-warning surveillance system to aid in searching the pet trade network for infectious animals. We represent the wildlife trade network as a tiered, directed graph with nodes representing facilities housing animals and edges representing trade relationships. We then propose two novel methods for determining optimal surveillance for the identification of facilities housing infected animals in the event that Bsal is identified within the network. In doing this, we account for the assumption that surveillance has an associated cost representing monetary cost and/or difficulty. The first of these methods utilizes limited information about local network topology and prioritizes surveillance that provides more information about network topology. The latter uses only the cost of surveillance and prioritizes surveilling at as many facilities as possible. We test the methods with simulated networks and outbreaks. The surveillance method that considers the network structure generally identifies a greater proportion of facilities housing infectious animals given a fixed cost and generally has a lower total cost than the method that only considers the cost of surveillance. The practice of choosing testing sites based on convenience and prioritizing the number of sampling sites may ultimately be more costly than identifying optimal sites for testing.

@@ -15,7 +15,7 @@ You can download a more complete version of my CV [here](http://jmcalis.github.i
 
 Education
 ======
-* Ph.D in Mathematics, University of Tennessee - Knoxville, 2026 (expected)
+* Ph.D in Mathematics, University of Tennessee - Knoxville, 2026
 * M.S. in Mathematics, University of Tennessee - Knoxville, 2023
 * B.S. in Mathematics (Mathematical Biology Concentration), The Ohio State University, 2021
 * B.S. In Zoology, The Ohio State University, 2021
@@ -46,9 +46,12 @@ Service and leadership
 
 Work experience
 ======
-* 2022-Present Graduate Research Associate - [Fefferman lab](https://feffermanlab.org)
+* 2026 - present Postdoctoral Research Associate - [Levin lab](https://slevin.princeton.edu)
+  * Princeton University
+  * Advisor: Dr. Simon Levin
+* 2022-2026 Graduate Research Associate - [Fefferman lab](https://feffermanlab.org)
   * University of Tennessee - Knoxville
-  * Advisor: Dr. Nina Fefferman
+  * Advisors: Dr. Nina Fefferman, Dr. Tadele Mengesha
 
 * 2018-2021: Undergraduate Researcher - [Hamilton Lab](https://u.osu.edu/hamilton.598/)
   * The Ohio State University
